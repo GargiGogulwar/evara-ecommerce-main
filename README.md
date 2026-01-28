@@ -1,3 +1,5 @@
+<img width="1362" height="689" alt="image" src="https://github.com/user-attachments/assets/18a22a40-036b-4b9e-bdaf-1541649bf1a4" />
+
 # 🛒 Evara E-Commerce Website
 
 ## 📌 About the Project
